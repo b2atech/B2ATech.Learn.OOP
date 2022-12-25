@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/B2ATech.Learn.OOP/.vs
+/src/B2ATech.Learn.OOP/B2ATech.Learn.OOP/bin/Debug/net6.0
+/src/B2ATech.Learn.OOP/B2ATech.Learn.OOP/obj
+/src/B2ATech.Learn.OOP/B2ATech.Learn.OOP.Inheritance/bin/Debug/net6.0
+/src/B2ATech.Learn.OOP/B2ATech.Learn.OOP.Inheritance/obj
